@@ -80,3 +80,7 @@ This project demonstrates how data-driven insights can be used to optimize marke
 - Dataset (Excel)
 - Tableau Dashboard (.twbx)
 - Dashboard Screenshots
+## Dashboard Preview
+## Dashboard Preview
+-[Overview](overview.jpg)
+-[ROI](roi_analysis.jpg)
