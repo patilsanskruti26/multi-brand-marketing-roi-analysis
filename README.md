@@ -71,7 +71,6 @@ Raw datasets from each brand were cleaned, standardized, and merged into a singl
 - Better targeting strategies can reduce customer acquisition cost and increase profitability
 
 ## Dashboard Preview
-(Add your screenshots here after uploading)
 
 ## Conclusion
 This project demonstrates how data-driven insights can be used to optimize marketing strategies, improve ROI, and support better business decision-making across multiple brands.
@@ -83,4 +82,4 @@ This project demonstrates how data-driven insights can be used to optimize marke
 ## Dashboard Preview
 ## Dashboard Preview
 -[Overview](overview.jpg)
--[ROI](roi_analysis.jpg)
+-[ROI](ROI.jpg)
